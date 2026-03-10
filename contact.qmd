@@ -1,0 +1,44 @@
+---
+title: "Contact"
+---
+
+# Let's Connect
+
+Have a question or want to work together? I'd love to hear from you.
+
+
+### 📧 Email
+[gmwalawage@gmail.com](mailto:gmwalawage@gmail.com)  
+*Response within 24-48 hours*
+
+### 📞 Phone
+[778-889-3304](tel:778-889-3304)  
+*Best reached 9 AM - 5 PM PST*
+
+### 📍 Location
+New Westminster, BC V3L 0H4  
+*Greater Vancouver Area*
+
+### 💼 Professional
+[LinkedIn Profile](https://www.linkedin.com/in/gayashan-walawage)  
+[GitHub Portfolio](https://github.com/GayashanWalawage)
+
+
+## Send a Message
+
+**Name:**  
+<input type="text" name="name" placeholder="Your name" style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px;">
+
+**Email:**  
+<input type="email" name="email" placeholder="Your email" style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px;">
+
+**Subject:**  
+<input type="text" name="subject" placeholder="Subject" style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px;">
+
+**Message:**  
+<textarea name="message" rows="5" placeholder="Your message" style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px;"></textarea>
+
+<button onclick="alert('Thank you for your message! This is a demo form.')" style="background: #2563eb; color: white; padding: 12px 30px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">Send Message</button>
+
+
+

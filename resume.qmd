@@ -1,0 +1,65 @@
+---
+title: "Resume"
+---
+
+# Professional Experience
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <a href="files/Gayashan_Maduwantha_Resume.pdf" download class="download-btn">
+    📥 Download Full Resume (PDF)
+  </a>
+</div>
+
+<div class="timeline">
+
+<div class="timeline-item">
+  <div class="timeline-date">2024</div>
+  <h3>Senior UI/UX Engineer</h3>
+  <p class="company">JRC Software – Sri Lanka</p>
+  <ul>
+    <li>Led enterprise platform UI design</li>
+    <li>Improved workflow efficiency by 30%</li>
+    <li>Conducted usability testing with 50+ users</li>
+  </ul>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">2021 – 2023</div>
+  <h3>UI/UX Engineer</h3>
+  <p class="company">JRC Software – Sri Lanka</p>
+  <ul>
+    <li>Managed UX initiatives for B2B platforms</li>
+    <li>Reduced user error rates by 35%</li>
+    <li>Created scalable design systems</li>
+  </ul>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">2019 – 2020</div>
+  <h3>Intern Software Engineer</h3>
+  <p class="company">CodeGen International – Sri Lanka</p>
+  <ul>
+    <li>Assisted R&D software projects</li>
+    <li>Built research dashboards for data analysis</li>
+    <li>Supported Agile project management</li>
+  </ul>
+</div>
+
+</div>
+
+---
+
+## Skills Snapshot
+
+<div class="skills-snapshot">
+  <span class="skill-tag">UI/UX Design</span>
+  <span class="skill-tag">User Research</span>
+  <span class="skill-tag">Wireframing</span>
+  <span class="skill-tag">Prototyping</span>
+  <span class="skill-tag">React</span>
+  <span class="skill-tag">Angular</span>
+  <span class="skill-tag">JavaScript</span>
+  <span class="skill-tag">Agile/Scrum</span>
+  <span class="skill-tag">Figma</span>
+  <span class="skill-tag">Jira</span>
+</div>

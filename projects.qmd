@@ -1,0 +1,179 @@
+---
+title: "Projects"
+---
+
+# Featured Projects
+
+A showcase of my work in UI/UX design, front-end development, and product innovation.
+
+---
+
+## AI Grow — Smart Agriculture Platform
+
+*Mobile · IoT · Analytics*
+
+### Overview
+
+AI Grow is a community-driven web and mobile application designed to help users grow, manage, and monitor fresh greens using controlled greenhouses and self-sustaining home units. The platform leverages IoT sensors and real-time monitoring to optimize plant growth by tracking key parameters such as temperature, humidity, and nutrient levels.
+
+### The Challenge
+
+Urban dwellers lack the space, time, and expertise to grow their own food. Traditional gardening requires constant attention and specialized knowledge, making it inaccessible for most city residents. Existing smart gardening solutions are either too expensive or too complex for everyday users.
+
+### The Solution
+
+I designed and developed an end-to-end IoT-enabled system that automates monitoring and control, making it easy for anyone to grow fresh produce at home. The mobile app provides real-time insights and remote control capabilities, while the web dashboard offers advanced analytics for experienced growers.
+
+### Technology Stack
+
+`React Native` `Angular` `Node.js` `MongoDB` `IoT (Arduino/Raspberry Pi)` `MQTT` `AWS IoT Core` `D3.js`
+
+### Key Features
+
+- **Mobile Control** – Full remote control of greenhouse parameters via mobile app
+- **Real-time Monitoring** – Live temperature, humidity, and nutrient level tracking
+- **Automated Dosing** – AI-powered nutrient dosing based on plant needs
+- **Growth Analytics** – Data visualization and growth optimization insights
+- **Smart Alerts** – Push notifications for parameter changes and maintenance
+- **Community Sharing** – Share harvests and tips with other growers
+
+### Results
+
+- **95%** User satisfaction rate
+- **40%** Reduction in plant failure
+- **200+** Active users in pilot program
+- **50%** Less water usage compared to traditional gardening
+
+[Live Demo](#) · [GitHub Repo](#) · [Case Study](#)
+
+---
+
+## Bricks+Agent — Property Management Platform
+
+*PropTech · AI · Workflow Automation*
+
+### Overview
+
+Bricks+Agent is a comprehensive property management platform that connects property managers, owners, tenants, and tradespeople to streamline maintenance tasks. The platform uses AI and automation to optimize job scheduling, track progress in real-time, manage invoices, and facilitate communication between all parties.
+
+### The Challenge
+
+Property maintenance involves multiple stakeholders with inefficient communication, manual processes, and lack of visibility. Property managers waste hours coordinating between tenants and contractors, while owners have no insight into maintenance status or costs.
+
+### The Solution
+
+I built an AI-powered platform that automates the entire maintenance workflow. The system intelligently assigns jobs based on skills and location, provides real-time status updates to all parties, and generates automatic invoices upon completion.
+
+### Technology Stack
+
+`React` `TypeScript` `Redux` `Node.js` `Express` `PostgreSQL` `TensorFlow.js` `WebSockets` `Stripe API`
+
+### Key Features
+
+- **AI Job Assignment** – Intelligent matching of jobs with tradespeople based on skills and location
+- **Real-time Tracking** – Live status updates and progress tracking for all stakeholders
+- **Automated Invoicing** – Seamless payment processing and invoice generation
+- **Communication Hub** – Integrated messaging between tenants, managers, and trades
+- **Document Management** – Centralized storage for permits, warranties, and contracts
+- **Analytics Dashboard** – Performance metrics and cost analysis for property managers
+
+### Results
+
+- **60%** Faster maintenance resolution
+- **35%** Reduction in administrative costs
+- **4.8/5** Average user rating
+- **500+** Properties managed through the platform
+
+[Live Demo](#) · [GitHub Repo](#) · [Case Study](#)
+
+---
+
+## Vega EVX — Electric Vehicle Platform
+
+*Automotive · EV · Fleet Analytics*
+
+### Overview
+
+The Vega EVX project is a comprehensive electric vehicle platform focused on fleet management and charging infrastructure optimization. The system provides real-time monitoring of battery performance, route optimization for delivery vehicles, and intelligent charging station recommendations.
+
+### The Challenge
+
+EV fleet operators struggle with range anxiety, inefficient route planning, and lack of visibility into battery health. Existing solutions are fragmented and don't provide the comprehensive analytics needed for large-scale fleet management.
+
+### The Solution
+
+I developed a suite of integrated tools for comprehensive EV fleet management. The platform provides real-time battery monitoring, predictive maintenance alerts, and AI-powered route optimization that considers charging station locations and battery levels.
+
+### Technology Stack
+
+`Angular` `D3.js` `Java` `Spring Boot` `MySQL` `WebSocket` `Google Maps API` `MQTT` `OAuth2`
+
+### Key Features
+
+- **Battery Monitoring** – Real-time battery health, charge levels, and predictive analytics
+- **Fleet Tracking** – Live GPS tracking and geofencing for all vehicles
+- **Charging Optimization** – Intelligent charging station recommendations based on route
+- **Route Planning** – AI-optimized routes considering traffic, charging stops, and delivery windows
+- **Energy Analytics** – Detailed consumption reports and cost analysis
+- **Maintenance Alerts** – Predictive maintenance based on vehicle telemetry
+
+### Results
+
+- **25%** Improvement in fleet efficiency
+- **30%** Reduction in charging costs
+- **50+** Commercial vehicles deployed
+- **15%** Increase in effective range through optimization
+
+[Live Demo](#) · [GitHub Repo](#) · [Case Study](#)
+
+---
+
+## Additional Projects
+
+### E-Commerce Platform
+A complete online store with shopping cart functionality, secure payment processing (Stripe integration), and user authentication system. Built with React, Node.js, MongoDB, and Stripe API.
+
+`React` `Node.js` `MongoDB` `Stripe` `JWT`
+
+---
+
+### Healthcare Appointment System
+Patient scheduling portal with doctor availability management, video consultation integration (WebRTC), and medical records management. Built with Angular, Firebase, and WebRTC.
+
+`Angular` `Firebase` `WebRTC` `Material UI`
+
+---
+
+### Banking Dashboard
+Financial transaction visualization and account management interface with fraud detection alerts. Features real-time data updates and interactive charts. Built with Vue.js, D3.js, Python Flask, and PostgreSQL.
+
+`Vue.js` `D3.js` `Python` `Flask` `PostgreSQL`
+
+---
+
+### Fitness Tracking App
+Mobile application for workout tracking, progress visualization, and social sharing features. Integrates with Apple HealthKit and Google Fit. Built with Flutter and Firebase.
+
+`Flutter` `Firebase` `HealthKit` `Google Fit`
+
+---
+
+## My Design Process
+
+### 1. Discovery & Research
+User interviews, competitive analysis, and market research to understand problems and opportunities.
+
+### 2. Ideation & Strategy
+Brainstorming solutions, creating user flows, and defining product requirements.
+
+### 3. Design & Prototyping
+Wireframing, high-fidelity mockups, and interactive prototypes for user testing.
+
+### 4. Development
+Front-end implementation with modern frameworks and responsive design principles.
+
+### 5. Testing & Iteration
+Usability testing, feedback collection, and continuous improvement based on user input.
+
+### 6. Launch & Learn
+Deployment, monitoring, and gathering insights for future iterations.

@@ -1,0 +1,92 @@
+---
+title: "Home"
+---
+
+<div class="hero-section">
+<div class="container">
+
+<div class="row align-items-center min-vh-100">
+
+<div class="col-lg-6">
+
+<h1 class="hero-title">GAYASHAN WALAWAGE</h1>
+
+<h2 class="hero-role">Senior UI/UX Engineer | Project Coordinator | MBA Candidate</h2>
+
+<p class="hero-description">
+Crafting intuitive digital experiences with 5+ years of expertise in UI/UX design and front-end development.
+</p>
+
+<div class="hero-stats">
+
+<div class="stat-item">
+<div class="stat-number">5+</div>
+<div class="stat-label">YEARS EXPERIENCE</div>
+</div>
+
+<div class="stat-item">
+<div class="stat-number">30+</div>
+<div class="stat-label">PROJECTS</div>
+</div>
+
+<div class="stat-item">
+<div class="stat-number">3</div>
+<div class="stat-label">COUNTRIES</div>
+</div>
+
+</div>
+
+<div class="hero-buttons">
+<a href="projects.qmd" class="btn-primary">View My Work</a>
+<a href="contact.qmd" class="btn-outline">Get In Touch</a>
+</div>
+
+</div>
+
+<div class="col-lg-6 text-center">
+
+<div class="profile-image-wrapper">
+<img src="main.png" alt="Gayashan Walawage" class="profile-image">
+</div>
+
+</div>
+
+</div>
+</div>
+</div>
+
+---
+
+## Featured Projects
+
+<div class="card-grid">
+
+<div class="card">
+<img src="AIGrow.png" class="card-image" alt="AI Grow Project">
+<h3>AI Grow</h3>
+<p>Smart agriculture platform with IoT integration for greenhouse monitoring.</p>
+<a href="projects.qmd#ai-grow">View Project →</a>
+</div>
+
+<div class="card">
+<img src="B&A.png" class="card-image" alt="Bricks+Agent Project">
+<h3>Bricks+Agent</h3>
+<p>AI-powered property management platform connecting tenants and contractors.</p>
+<a href="projects.qmd#bricks-agent">View Project →</a>
+</div>
+
+<div class="card">
+<img src="Vega.webp" class="card-image" alt="Vega EVX Project">
+<h3>Vega EVX</h3>
+<p>Electric vehicle platform focused on EV fleet and charging infrastructure.</p>
+<a href="projects.qmd#vega-evx">View Project →</a>
+</div>
+
+<div class="card">
+<img src="JLL.jpg" class="card-image" alt=" JLL Project">
+<h3>JLL</h3>
+<p>AI-powered insuarance platform connecting tenants and contractors.</p>
+<a href="projects.qmd#jll">View Project →</a>
+</div>
+
+</div>

@@ -1,0 +1,60 @@
+# Technical Skills
+
+<div class="skill-bar">
+<span>HTML / CSS</span>
+
+<div class="progress">
+<div class="progress-fill" style="width:95%"></div>
+</div>
+
+</div>
+
+<div class="skill-bar">
+<span>JavaScript</span>
+
+<div class="progress">
+<div class="progress-fill" style="width:90%"></div>
+</div>
+
+</div>
+
+<div class="skill-bar">
+<span>React / Angular</span>
+
+<div class="progress">
+<div class="progress-fill" style="width:85%"></div>
+</div>
+
+</div>
+
+<div class="skill-bar">
+<span>UI/UX Design</span>
+
+<div class="progress">
+<div class="progress-fill" style="width:92%"></div>
+</div>
+
+</div>
+
+
+---
+title: "Leadership"
+---
+
+# Leadership Experience
+
+### Event Coordinator  
+MBA Games 2025  
+University Canada West
+
+Responsibilities:
+
+- Coordinated inter-university competitions
+- Managed team scheduling
+- Organized event logistics
+
+---
+
+# Community Involvement
+
+I actively participate in **MBA leadership and networking events** to strengthen collaboration, communication, and strategic leadership skills.

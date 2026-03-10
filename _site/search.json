@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Crafting intuitive digital experiences with 5+ years of expertise in UI/UX design and front-end development.\n\n\n\n\n5+\n\n\nYEARS EXPERIENCE\n\n\n\n\n30+\n\n\nPROJECTS\n\n\n\n\n3\n\n\nCOUNTRIES\n\n\n\n\nView My Work Get In Touch"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\n\n\nAI Grow\n\n\nSmart agriculture platform with IoT integration for greenhouse monitoring.\n\nView Project →\n\n\n\n\nBricks+Agent\n\n\nAI-powered property management platform connecting tenants and contractors.\n\nView Project →\n\n\n\n\nVega EVX\n\n\nElectric vehicle platform focused on EV fleet and charging infrastructure.\n\nView Project →\n\n\n\n\nJLL\n\n\nAI-powered insuarance platform connecting tenants and contractors.\n\nView Project →"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Leadership",
+    "section": "",
+    "text": "Technical Skills\n\nHTML / CSS\n\n\n\n\n\n\n\nJavaScript\n\n\n\n\n\n\n\nReact / Angular\n\n\n\n\n\n\n\nUI/UX Design\n\n\n\n\n\n\n\n\nLeadership Experience\n\nEvent Coordinator\nMBA Games 2025\nUniversity Canada West\nResponsibilities:\n\nCoordinated inter-university competitions\nManaged team scheduling\nOrganized event logistics\n\n\n\n\n\nCommunity Involvement\nI actively participate in MBA leadership and networking events to strengthen collaboration, communication, and strategic leadership skills."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "📥 Download Full Resume (PDF) \n\n\n\n\n2024\n\n\n\nJRC Software – Sri Lanka\n\n\n\nLed enterprise platform UI design\n\n\nImproved workflow efficiency by 30%\n\n\nConducted usability testing with 50+ users\n\n\n\n\n\n2021 – 2023\n\n\n\nJRC Software – Sri Lanka\n\n\n\nManaged UX initiatives for B2B platforms\n\n\nReduced user error rates by 35%\n\n\nCreated scalable design systems\n\n\n\n\n\n2019 – 2020\n\n\n\nCodeGen International – Sri Lanka\n\n\n\nAssisted R&D software projects\n\n\nBuilt research dashboards for data analysis\n\n\nSupported Agile project management\n\n\n\n\n\n\n\n\nUI/UX Design User Research Wireframing Prototyping React Angular JavaScript Agile/Scrum Figma Jira"
+  },
+  {
+    "objectID": "resume.html#skills-snapshot",
+    "href": "resume.html#skills-snapshot",
+    "title": "Resume",
+    "section": "",
+    "text": "UI/UX Design User Research Wireframing Prototyping React Angular JavaScript Agile/Scrum Figma Jira"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Have a question or want to work together? I’d love to hear from you.\n\n\ngmwalawage@gmail.com\nResponse within 24-48 hours\n\n\n\n778-889-3304\nBest reached 9 AM - 5 PM PST\n\n\n\nNew Westminster, BC V3L 0H4\nGreater Vancouver Area\n\n\n\nLinkedIn Profile\nGitHub Portfolio\n\n\n\nName:\n\nEmail:\n\nSubject:\n\nMessage:\n\n\n\nSend Message"
+  },
+  {
+    "objectID": "contact.html#send-a-message",
+    "href": "contact.html#send-a-message",
+    "title": "Contact",
+    "section": "",
+    "text": "Name:\n\nEmail:\n\nSubject:\n\nMessage:\n\n\n\nSend Message"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A showcase of my work in UI/UX design, front-end development, and product innovation.\n\n\n\nMobile · IoT · Analytics\n\n\nAI Grow is a community-driven web and mobile application designed to help users grow, manage, and monitor fresh greens using controlled greenhouses and self-sustaining home units. The platform leverages IoT sensors and real-time monitoring to optimize plant growth by tracking key parameters such as temperature, humidity, and nutrient levels.\n\n\n\nUrban dwellers lack the space, time, and expertise to grow their own food. Traditional gardening requires constant attention and specialized knowledge, making it inaccessible for most city residents. Existing smart gardening solutions are either too expensive or too complex for everyday users.\n\n\n\nI designed and developed an end-to-end IoT-enabled system that automates monitoring and control, making it easy for anyone to grow fresh produce at home. The mobile app provides real-time insights and remote control capabilities, while the web dashboard offers advanced analytics for experienced growers.\n\n\n\nReact Native Angular Node.js MongoDB IoT (Arduino/Raspberry Pi) MQTT AWS IoT Core D3.js\n\n\n\n\nMobile Control – Full remote control of greenhouse parameters via mobile app\nReal-time Monitoring – Live temperature, humidity, and nutrient level tracking\nAutomated Dosing – AI-powered nutrient dosing based on plant needs\nGrowth Analytics – Data visualization and growth optimization insights\nSmart Alerts – Push notifications for parameter changes and maintenance\nCommunity Sharing – Share harvests and tips with other growers\n\n\n\n\n\n95% User satisfaction rate\n40% Reduction in plant failure\n200+ Active users in pilot program\n50% Less water usage compared to traditional gardening\n\nLive Demo · GitHub Repo · Case Study\n\n\n\n\n\nPropTech · AI · Workflow Automation\n\n\nBricks+Agent is a comprehensive property management platform that connects property managers, owners, tenants, and tradespeople to streamline maintenance tasks. The platform uses AI and automation to optimize job scheduling, track progress in real-time, manage invoices, and facilitate communication between all parties.\n\n\n\nProperty maintenance involves multiple stakeholders with inefficient communication, manual processes, and lack of visibility. Property managers waste hours coordinating between tenants and contractors, while owners have no insight into maintenance status or costs.\n\n\n\nI built an AI-powered platform that automates the entire maintenance workflow. The system intelligently assigns jobs based on skills and location, provides real-time status updates to all parties, and generates automatic invoices upon completion.\n\n\n\nReact TypeScript Redux Node.js Express PostgreSQL TensorFlow.js WebSockets Stripe API\n\n\n\n\nAI Job Assignment – Intelligent matching of jobs with tradespeople based on skills and location\nReal-time Tracking – Live status updates and progress tracking for all stakeholders\nAutomated Invoicing – Seamless payment processing and invoice generation\nCommunication Hub – Integrated messaging between tenants, managers, and trades\nDocument Management – Centralized storage for permits, warranties, and contracts\nAnalytics Dashboard – Performance metrics and cost analysis for property managers\n\n\n\n\n\n60% Faster maintenance resolution\n35% Reduction in administrative costs\n4.8/5 Average user rating\n500+ Properties managed through the platform\n\nLive Demo · GitHub Repo · Case Study\n\n\n\n\n\nAutomotive · EV · Fleet Analytics\n\n\nThe Vega EVX project is a comprehensive electric vehicle platform focused on fleet management and charging infrastructure optimization. The system provides real-time monitoring of battery performance, route optimization for delivery vehicles, and intelligent charging station recommendations.\n\n\n\nEV fleet operators struggle with range anxiety, inefficient route planning, and lack of visibility into battery health. Existing solutions are fragmented and don’t provide the comprehensive analytics needed for large-scale fleet management.\n\n\n\nI developed a suite of integrated tools for comprehensive EV fleet management. The platform provides real-time battery monitoring, predictive maintenance alerts, and AI-powered route optimization that considers charging station locations and battery levels.\n\n\n\nAngular D3.js Java Spring Boot MySQL WebSocket Google Maps API MQTT OAuth2\n\n\n\n\nBattery Monitoring – Real-time battery health, charge levels, and predictive analytics\nFleet Tracking – Live GPS tracking and geofencing for all vehicles\nCharging Optimization – Intelligent charging station recommendations based on route\nRoute Planning – AI-optimized routes considering traffic, charging stops, and delivery windows\nEnergy Analytics – Detailed consumption reports and cost analysis\nMaintenance Alerts – Predictive maintenance based on vehicle telemetry\n\n\n\n\n\n25% Improvement in fleet efficiency\n30% Reduction in charging costs\n50+ Commercial vehicles deployed\n15% Increase in effective range through optimization\n\nLive Demo · GitHub Repo · Case Study\n\n\n\n\n\n\n\nA complete online store with shopping cart functionality, secure payment processing (Stripe integration), and user authentication system. Built with React, Node.js, MongoDB, and Stripe API.\nReact Node.js MongoDB Stripe JWT\n\n\n\n\nPatient scheduling portal with doctor availability management, video consultation integration (WebRTC), and medical records management. Built with Angular, Firebase, and WebRTC.\nAngular Firebase WebRTC Material UI\n\n\n\n\nFinancial transaction visualization and account management interface with fraud detection alerts. Features real-time data updates and interactive charts. Built with Vue.js, D3.js, Python Flask, and PostgreSQL.\nVue.js D3.js Python Flask PostgreSQL\n\n\n\n\nMobile application for workout tracking, progress visualization, and social sharing features. Integrates with Apple HealthKit and Google Fit. Built with Flutter and Firebase.\nFlutter Firebase HealthKit Google Fit\n\n\n\n\n\n\n\nUser interviews, competitive analysis, and market research to understand problems and opportunities.\n\n\n\nBrainstorming solutions, creating user flows, and defining product requirements.\n\n\n\nWireframing, high-fidelity mockups, and interactive prototypes for user testing.\n\n\n\nFront-end implementation with modern frameworks and responsive design principles.\n\n\n\nUsability testing, feedback collection, and continuous improvement based on user input.\n\n\n\nDeployment, monitoring, and gathering insights for future iterations."
+  },
+  {
+    "objectID": "projects.html#ai-grow-smart-agriculture-platform",
+    "href": "projects.html#ai-grow-smart-agriculture-platform",
+    "title": "Projects",
+    "section": "",
+    "text": "Mobile · IoT · Analytics\n\n\nAI Grow is a community-driven web and mobile application designed to help users grow, manage, and monitor fresh greens using controlled greenhouses and self-sustaining home units. The platform leverages IoT sensors and real-time monitoring to optimize plant growth by tracking key parameters such as temperature, humidity, and nutrient levels.\n\n\n\nUrban dwellers lack the space, time, and expertise to grow their own food. Traditional gardening requires constant attention and specialized knowledge, making it inaccessible for most city residents. Existing smart gardening solutions are either too expensive or too complex for everyday users.\n\n\n\nI designed and developed an end-to-end IoT-enabled system that automates monitoring and control, making it easy for anyone to grow fresh produce at home. The mobile app provides real-time insights and remote control capabilities, while the web dashboard offers advanced analytics for experienced growers.\n\n\n\nReact Native Angular Node.js MongoDB IoT (Arduino/Raspberry Pi) MQTT AWS IoT Core D3.js\n\n\n\n\nMobile Control – Full remote control of greenhouse parameters via mobile app\nReal-time Monitoring – Live temperature, humidity, and nutrient level tracking\nAutomated Dosing – AI-powered nutrient dosing based on plant needs\nGrowth Analytics – Data visualization and growth optimization insights\nSmart Alerts – Push notifications for parameter changes and maintenance\nCommunity Sharing – Share harvests and tips with other growers\n\n\n\n\n\n95% User satisfaction rate\n40% Reduction in plant failure\n200+ Active users in pilot program\n50% Less water usage compared to traditional gardening\n\nLive Demo · GitHub Repo · Case Study"
+  },
+  {
+    "objectID": "projects.html#bricksagent-property-management-platform",
+    "href": "projects.html#bricksagent-property-management-platform",
+    "title": "Projects",
+    "section": "",
+    "text": "PropTech · AI · Workflow Automation\n\n\nBricks+Agent is a comprehensive property management platform that connects property managers, owners, tenants, and tradespeople to streamline maintenance tasks. The platform uses AI and automation to optimize job scheduling, track progress in real-time, manage invoices, and facilitate communication between all parties.\n\n\n\nProperty maintenance involves multiple stakeholders with inefficient communication, manual processes, and lack of visibility. Property managers waste hours coordinating between tenants and contractors, while owners have no insight into maintenance status or costs.\n\n\n\nI built an AI-powered platform that automates the entire maintenance workflow. The system intelligently assigns jobs based on skills and location, provides real-time status updates to all parties, and generates automatic invoices upon completion.\n\n\n\nReact TypeScript Redux Node.js Express PostgreSQL TensorFlow.js WebSockets Stripe API\n\n\n\n\nAI Job Assignment – Intelligent matching of jobs with tradespeople based on skills and location\nReal-time Tracking – Live status updates and progress tracking for all stakeholders\nAutomated Invoicing – Seamless payment processing and invoice generation\nCommunication Hub – Integrated messaging between tenants, managers, and trades\nDocument Management – Centralized storage for permits, warranties, and contracts\nAnalytics Dashboard – Performance metrics and cost analysis for property managers\n\n\n\n\n\n60% Faster maintenance resolution\n35% Reduction in administrative costs\n4.8/5 Average user rating\n500+ Properties managed through the platform\n\nLive Demo · GitHub Repo · Case Study"
+  },
+  {
+    "objectID": "projects.html#vega-evx-electric-vehicle-platform",
+    "href": "projects.html#vega-evx-electric-vehicle-platform",
+    "title": "Projects",
+    "section": "",
+    "text": "Automotive · EV · Fleet Analytics\n\n\nThe Vega EVX project is a comprehensive electric vehicle platform focused on fleet management and charging infrastructure optimization. The system provides real-time monitoring of battery performance, route optimization for delivery vehicles, and intelligent charging station recommendations.\n\n\n\nEV fleet operators struggle with range anxiety, inefficient route planning, and lack of visibility into battery health. Existing solutions are fragmented and don’t provide the comprehensive analytics needed for large-scale fleet management.\n\n\n\nI developed a suite of integrated tools for comprehensive EV fleet management. The platform provides real-time battery monitoring, predictive maintenance alerts, and AI-powered route optimization that considers charging station locations and battery levels.\n\n\n\nAngular D3.js Java Spring Boot MySQL WebSocket Google Maps API MQTT OAuth2\n\n\n\n\nBattery Monitoring – Real-time battery health, charge levels, and predictive analytics\nFleet Tracking – Live GPS tracking and geofencing for all vehicles\nCharging Optimization – Intelligent charging station recommendations based on route\nRoute Planning – AI-optimized routes considering traffic, charging stops, and delivery windows\nEnergy Analytics – Detailed consumption reports and cost analysis\nMaintenance Alerts – Predictive maintenance based on vehicle telemetry\n\n\n\n\n\n25% Improvement in fleet efficiency\n30% Reduction in charging costs\n50+ Commercial vehicles deployed\n15% Increase in effective range through optimization\n\nLive Demo · GitHub Repo · Case Study"
+  },
+  {
+    "objectID": "projects.html#additional-projects",
+    "href": "projects.html#additional-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "A complete online store with shopping cart functionality, secure payment processing (Stripe integration), and user authentication system. Built with React, Node.js, MongoDB, and Stripe API.\nReact Node.js MongoDB Stripe JWT\n\n\n\n\nPatient scheduling portal with doctor availability management, video consultation integration (WebRTC), and medical records management. Built with Angular, Firebase, and WebRTC.\nAngular Firebase WebRTC Material UI\n\n\n\n\nFinancial transaction visualization and account management interface with fraud detection alerts. Features real-time data updates and interactive charts. Built with Vue.js, D3.js, Python Flask, and PostgreSQL.\nVue.js D3.js Python Flask PostgreSQL\n\n\n\n\nMobile application for workout tracking, progress visualization, and social sharing features. Integrates with Apple HealthKit and Google Fit. Built with Flutter and Firebase.\nFlutter Firebase HealthKit Google Fit"
+  },
+  {
+    "objectID": "projects.html#my-design-process",
+    "href": "projects.html#my-design-process",
+    "title": "Projects",
+    "section": "",
+    "text": "User interviews, competitive analysis, and market research to understand problems and opportunities.\n\n\n\nBrainstorming solutions, creating user flows, and defining product requirements.\n\n\n\nWireframing, high-fidelity mockups, and interactive prototypes for user testing.\n\n\n\nFront-end implementation with modern frameworks and responsive design principles.\n\n\n\nUsability testing, feedback collection, and continuous improvement based on user input.\n\n\n\nDeployment, monitoring, and gathering insights for future iterations."
+  }
+]

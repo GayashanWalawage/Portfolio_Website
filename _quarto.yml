@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  description: "UI/UX Engineer & MBA Candidate Portfolio"
+  image: "lg.png"  # For social sharing
+  
+  navbar:
+    background: primary
+    search: true
+    pinned: true
+    logo: "gm.jpg"  # This adds your logo to the left side
+    logo-alt: "Gayashan Maduwantha Logo"  # Alt text for accessibility
+    logo-href: "index.qmd"  # Where logo clicks go to
+    
+    left:
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/gayashan-walawage
+      - icon: github
+        href: https://github.com/GayashanWalawage
+     
+  page-footer:
+    center: "© 2026 Gayashan Maduwantha. All rights reserved."
+    background: dark
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    smooth-scroll: true
+    title-block-banner: false
